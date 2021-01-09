@@ -1,4 +1,1 @@
-{
-    "mongoURI": "mongodb+srv://admin:neutrino777@cluster0.iazvl.mongodb.net/oyou?retryWrites=true&w=majority",
-    "jwtSecret": "sl_myJwtSecret"
-}
+{}
